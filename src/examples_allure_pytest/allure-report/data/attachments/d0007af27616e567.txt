@@ -1,0 +1,1 @@
+Video saved at: /Users/anapedrosa/Downloads/start-pytest-py3.8-pip/src/examples_allure_pytest/video.webm
