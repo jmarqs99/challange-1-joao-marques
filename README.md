@@ -45,4 +45,4 @@ Follow the Allure (https://allurereport.org/docs/install/) installation guide.
     allure open
    
 ### Screenshots and Videos
-Screenshots will be saved in the screenshots folder, and the test video will be recorded at videos folder.
+Screenshots will be saved in the src/examples_allure_pytest/screenshots folder, and the test video will be recorded at src/examples_allure_pytest/videos folder.
